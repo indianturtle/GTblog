@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GTblog/static/css/main.69f8cbf6.css",
+    "main.js": "/GTblog/static/js/main.767f3906.js",
+    "static/js/787.0901821b.chunk.js": "/GTblog/static/js/787.0901821b.chunk.js",
+    "index.html": "/GTblog/index.html",
+    "main.69f8cbf6.css.map": "/GTblog/static/css/main.69f8cbf6.css.map",
+    "main.767f3906.js.map": "/GTblog/static/js/main.767f3906.js.map",
+    "787.0901821b.chunk.js.map": "/GTblog/static/js/787.0901821b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f8cbf6.css",
+    "static/js/main.767f3906.js"
+  ]
+}
